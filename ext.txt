@@ -1,0 +1,10 @@
+.rar
+.zip
+.gz
+.tar.gz
+.7z
+.tar
+.bz2
+.tar.bz2
+.sql
+.bak

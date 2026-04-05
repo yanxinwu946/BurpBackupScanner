@@ -1,0 +1,12 @@
+.gradle/
+build/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.jks
+*.p12
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
